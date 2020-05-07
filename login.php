@@ -10,5 +10,6 @@
 <body>
     <h1>Test git Branch Master</h1>
     <p>Nhanh 1</p>
+	<p>Nhanh 2</p>
 </body>
 </html>
