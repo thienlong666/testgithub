@@ -8,7 +8,8 @@
     <title>Test Git</title>
 </head>
 <body>
-    <h1>Test git Branch Master</h1>
+    <h1>Test git Merge</h1>
     <p>Nhanh 1</p>
+	<p>Add them the p o branch 1</p>
 </body>
 </html>
