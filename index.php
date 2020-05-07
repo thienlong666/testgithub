@@ -17,5 +17,6 @@
 	<p>Nhanh 2</p>
 	<p>Nhanh 2</p>
 	<p>Nhanh 2</p>
+	<p>Test nhanh jenkins</p>
 </body>
 </html>
